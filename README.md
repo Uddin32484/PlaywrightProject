@@ -1,5 +1,9 @@
 # Playwright Fixtures Test Project
 # Created by Yub Uddin 06/22/2025 This AI MCP Based Project
+
+[![Playwright Tests](https://github.com/Uddin32484/PlaywrightProject/actions/workflows/playwright.yml/badge.svg)](https://github.com/Uddin32484/PlaywrightProject/actions/workflows/playwright.yml)
+[![Code Quality](https://github.com/Uddin32484/PlaywrightProject/actions/workflows/code-quality.yml/badge.svg)](https://github.com/Uddin32484/PlaywrightProject/actions/workflows/code-quality.yml)
+
 A comprehensive Playwright test automation project demonstrating various fixture patterns and best practices for test organization and data management.
 
 ## 🚀 Features
