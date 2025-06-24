@@ -1,5 +1,5 @@
 # Playwright Fixtures Test Project
-# Craeted by Yub uddin 06/22/2025 This AI MCP Based Project 
+# Created by Yub Uddin 06/22/2025 This AI MCP Based Project
 A comprehensive Playwright test automation project demonstrating various fixture patterns and best practices for test organization and data management.
 
 ## 🚀 Features
